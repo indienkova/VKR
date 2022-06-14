@@ -1,0 +1,56 @@
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.exe
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.deps.json
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.runtimeconfig.json
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/ref/RabbitMQProducer.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.pdb
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/AutoFixture.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/Fare.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/bin/Debug/net6.0/RabbitMQ.Client.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.csproj.AssemblyReference.cache
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.AssemblyInfoInputs.cache
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.AssemblyInfo.cs
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.csproj.CoreCompileInputs.cache
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.csproj.CopyComplete
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/ref/RabbitMQProducer.dll
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.pdb
+C:/Users/Мвидео/source/repos/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.genruntimeconfig.cache
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.deps.json
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.runtimeconfig.json
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/RabbitMQProducer.pdb
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/AutoFixture.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Fare.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Npgsql.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.csproj.AssemblyReference.cache
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.AssemblyInfoInputs.cache
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.AssemblyInfo.cs
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.csproj.CoreCompileInputs.cache
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.csproj.CopyComplete
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/refint/RabbitMQProducer.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.pdb
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/RabbitMQProducer.genruntimeconfig.cache
+/home/anastasia/Рабочий стол/RabbitMQProducer/obj/Debug/net6.0/ref/RabbitMQProducer.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Humanizer.dll
+/home/anastasia/Рабочий стол/RabbitMQProducer/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
