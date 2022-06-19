@@ -23,13 +23,10 @@ def loadToCold(name, retTime):
         oddConnectionString = "host='localhost' port='5432' dbname='test' user='gpadmin' password='1045'"
         oddConnection = psycopg2.connect(oddConnectionString)
         oddCursor = oddConnection.cursor()
-        oddCursor.execute("SELECT date FROM hadoopuser.mdm.retention_time")
-        date = oddCursor.fetchall()
         oddCursor.execute (
-            f"""
-                        INSERT INTO test.cold.{name}
-                        SELECT * FROM test.warm.{name}
-                        WHERE  date <  CURRENT_DATE - interval '{retTime} month';""")
+            f"""INSERT INTO test.cold.{name}
+                SELECT * FROM test.warm.{name}
+                WHERE  date <  CURRENT_DATE - interval '{retTime} month';""")
 
 
 
@@ -47,10 +44,14 @@ def deleteFromWarm (name, retTime):
         oddConnection = psycopg2.connect(oddConnectionString)
         oddCursor = oddConnection.cursor()
         oddCursor.execute (
-            f"""
-                    IF EXTRACT (MONTH FROM CURRENT_DATE) - {retTime} > 0 THEN
-                        DELETE FROM test.warm.{name}
-                        WHERE  date <  CURRENT_DATE - interval '{retTime} month';""")
+            f"""do $$
+                BEGIN
+                IF EXTRACT (MONTH FROM CURRENT_DATE) - {retTime} > 0 THEN
+                DELETE FROM test.warm.{name}
+                WHERE  date <  CURRENT_DATE - interval '{retTime} month';
+                END IF;
+                END$$;
+                """)
 
 
 
